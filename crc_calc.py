@@ -8,7 +8,9 @@
 # CRC calculation in 1-wire devices
 # http://www.maximintegrated.com/en/app-notes/index.mvp/id/27
 
-ID = [0x28,0xA2,0xD9,0x84,0x00,0x00,0x01,0x00]
+# Change this to your wanted 7-byte ID, 
+# last byte is checksum (which will be calculated)
+ID = [0x1D,0xA2,0xD9,0x84,0x00,0x00,0x01, 0x00]
 
 crc=0
 for i in range(0,7):
