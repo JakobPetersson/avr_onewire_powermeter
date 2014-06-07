@@ -1,7 +1,7 @@
 AVR 1-Wire Power Meter
 ======================
 ## Background
-This project builds upon the work of Tobias Mueller which implemented the functionality of a few 1-Wire devices using an AVR microprocessor. The original project can be found here: [http://tobynet.de/index.php/1-wire-device-mit-avr](http://tobynet.de/index.php/1-wire-device-mit-avr)
+This project builds upon the work of Tobias Müller which implemented the functionality of a few 1-Wire devices using an AVR microprocessor. The original project can be found here: [http://tobynet.de/index.php/1-wire-device-mit-avr](http://tobynet.de/index.php/1-wire-device-mit-avr)
 
 I thank him greatly for his work. 
 It is important, especially since the DS2423 has been discontinued.
